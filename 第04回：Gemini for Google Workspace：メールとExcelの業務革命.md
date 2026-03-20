@@ -1,4 +1,4 @@
-# __第4回：Gemini for Google Workspace：メールとExcelの業務革命__
+# __第04回：Gemini for Google Workspace：メールとExcelの業務革命__
 
 ## __1\. 講義概要__
 
